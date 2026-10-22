@@ -187,9 +187,6 @@ print(f"\n5. Visualisation successfully generated and exported as '{output_filen
 plt.show()
 ```
 
-[BND_Data_Science_ANOVA.html](BND_Data_Science_ANOVA.html)
-
-[BND_Data_Science_ANOVA.ipynb](BND_Data_Science_ANOVA.ipynb)
 
 ## **Conclusions, Limitations, and Speculative Implications**
 
