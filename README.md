@@ -63,4 +63,3 @@ In real-world council projects, datasets are ingested via structured CSV files o
 
 Copy and paste the code block below directly into a **single cell** in your Jupyter Notebook. It handles data simulation, statistical testing, post-hoc analysis, visualization generation, and inline plotting.
 
-- **Housing Strategy:** Understanding tenure demographics informs local development planning, providing and supporting the provision of age-appropriate housing options across tenure types.
