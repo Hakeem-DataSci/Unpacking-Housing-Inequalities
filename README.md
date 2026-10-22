@@ -41,7 +41,6 @@ $$
 F = \frac{\text{Between-Group Variability}}{\text{Within-Group Variability}}
 $$
 
-!image.png
 
 A high F-statistic accompanied by a very low p-value (p<0.05) leads us to reject the null hypothesis, indicating that group means are not all equal.
 
