@@ -65,7 +65,7 @@ Copy and paste the code block below directly into a **single cell** in your Jupy
 
 ```python
 # ==============================================================================
-# Gemini: COUNCIL ANALYTICS: TENURE TYPE ANOVA PIPELINE
+# COUNCIL ANALYTICS: TENURE TYPE ANOVA PIPELINE
 # ==============================================================================
 
 import pandas as pd
